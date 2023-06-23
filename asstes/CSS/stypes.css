@@ -1,0 +1,17 @@
+.item-main{
+    background-color:#464646;
+    width: 370px;
+    height: 550px;
+}
+.item{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.item1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+}
